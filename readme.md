@@ -67,7 +67,7 @@ O formulário recebe `action="/" method="post"`, já o arquivo de configuração
 Deve-se instalar o projeto com NPM:
 
 ```bash
-    cd BMI Calculator
+    cd CalculadoraIMC
     npm install
 ```
 Para iniciar o servidor com nodemon:
